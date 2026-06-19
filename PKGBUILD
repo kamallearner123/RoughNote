@@ -1,5 +1,5 @@
 pkgname=roughnote
-pkgver=0.1.0
+pkgver=1.0.1
 pkgrel=1
 pkgdesc="A native Linux drawing and comprehensive note-taking application built with Rust and GTK4"
 arch=('x86_64')
